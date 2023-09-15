@@ -5,7 +5,8 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".header__heading-link {padding: 0;}"
+        ".header__heading-link {padding: 0;}",
+        ".header__menu-item {color: rgba(var(--color-foreground)); font-size: 2rem; font-weight: bold;}"
       ],
       "settings": {
         "logo_position": "middle-left",
