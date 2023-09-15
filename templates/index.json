@@ -5,6 +5,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Daktrimmen van aluminshop",
             "heading_size": "h0"
@@ -12,6 +13,7 @@
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
@@ -19,6 +21,7 @@
         },
         "button": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Shop all",
             "button_link_1": "shopify:\/\/collections\/all",
@@ -81,7 +84,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
+        "title": "Featured products",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -101,7 +104,7 @@
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": true,
+        "swipe_on_mobile": false,
         "padding_top": 28,
         "padding_bottom": 36
       }
