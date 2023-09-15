@@ -4,5 +4,23 @@
     "market": "nl"
   },
   "sections": {
+    "main": {
+      "settings": {
+        "media_size": "medium"
+      },
+      "blocks": {
+        "vendor": {
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
+          }
+        }
+      }
+    }
   }
 }
