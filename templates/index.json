@@ -81,7 +81,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -101,7 +101,7 @@
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 28,
         "padding_bottom": 36
       }
