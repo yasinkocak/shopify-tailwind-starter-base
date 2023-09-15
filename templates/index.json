@@ -54,14 +54,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "Welkom bij AluminShop.nl!",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Blader door ons assortiment, vraag advies aan onze experts en begin vandaag nog aan uw projecten met vertrouwen. Bij AluminShop.nl streven we ernaar om uw bouw- en renovatiedromen werkelijkheid te laten worden.<\/p>"
           }
         }
       },
