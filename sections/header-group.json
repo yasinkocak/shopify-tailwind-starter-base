@@ -15,7 +15,7 @@
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
         "color_scheme": "scheme-24e8416e-38a4-4e3a-86fd-9f5755b79022",
-        "menu_color_scheme": "background-1",
+        "menu_color_scheme": "scheme-24e8416e-38a4-4e3a-86fd-9f5755b79022",
         "enable_country_selector": false,
         "enable_language_selector": false,
         "mobile_logo_position": "center",
