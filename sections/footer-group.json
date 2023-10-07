@@ -33,7 +33,7 @@
         "footer-2"
       ],
       "custom_css": [
-        ".footer__copyright {font-size: 1.6rem;}"
+        ".copyright__content {font-size: 1.6rem;}"
       ],
       "settings": {
         "color_scheme": "scheme-24e8416e-38a4-4e3a-86fd-9f5755b79022",
