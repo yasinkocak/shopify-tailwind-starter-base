@@ -7,7 +7,8 @@
       "custom_css": [
         ".header__heading-link {padding: 0;}",
         ".header__menu-item {color: rgba(var(--color-foreground)); font-size: 2rem; font-weight: bold;}",
-        ".cart-notification {background-color: white;}"
+        ".cart-notification {background-color: white;}",
+        ".header__icon > .link {font-size: 2rem;}"
       ],
       "settings": {
         "logo_position": "middle-left",
