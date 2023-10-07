@@ -25,9 +25,54 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "646d3ebd-98e7-454e-a60e-0d51e8056c6b": {
+      "type": "announcement-bar",
+      "blocks": {
+        "sections--20004215292199__646d3ebd-98e7-454e-a60e-0d51e8056c6b-announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "text": "Bezorging in heel Nederland en Belgie",
+            "link": ""
+          }
+        },
+        "1b716753-5146-420c-836f-166e5e0cbf72": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "sections--20004215292199__646d3ebd-98e7-454e-a60e-0d51e8056c6b-announcement-1",
+        "1b716753-5146-420c-836f-166e5e0cbf72"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "background-1",
+        "show_line_separator": true,
+        "show_social": false,
+        "auto_rotate": false,
+        "change_slides_speed": 5
+      }
+    },
+    "8a014b6c-3bab-48d1-917f-121cd9b1e007": {
+      "type": "custom-liquid",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "custom_liquid": "<center><span>Bezorging in heel Nederland en België<\/span>\n<span>Direct uit voorraad leverbaar<\/span>\n<\/center>",
+        "color_scheme": "",
+        "padding_top": 4,
+        "padding_bottom": 4
+      }
     }
   },
   "order": [
-    "header"
+    "header",
+    "646d3ebd-98e7-454e-a60e-0d51e8056c6b",
+    "8a014b6c-3bab-48d1-917f-121cd9b1e007"
   ]
 }
