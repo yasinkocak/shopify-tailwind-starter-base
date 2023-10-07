@@ -15,8 +15,8 @@
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Over ons",
-            "menu": "footer"
+            "heading": "Aluminshop.nl",
+            "menu": "footer-over-ons"
           }
         },
         "footer-2": {
