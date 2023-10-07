@@ -8,22 +8,22 @@
         "footer-0": {
           "type": "link_list",
           "settings": {
-            "heading": "Quick links",
+            "heading": "Service",
             "menu": "footer"
           }
         },
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Info",
+            "heading": "Over ons",
             "menu": "footer"
           }
         },
         "footer-2": {
           "type": "text",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "heading": "",
+            "subtext": "<p>Onze missie is om hoogwaardige daktrimmen toegankelijk te maken voor iedereen, met een focus op kwaliteit, gebruiksgemak en klanttevredenheid.<\/p>"
           }
         }
       },
